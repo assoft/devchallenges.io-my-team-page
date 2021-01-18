@@ -1,15 +1,16 @@
 <h1 align="center">My team page</h1>
+
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://devchallenges-io-my-team-page.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/nG2UlqgrL8RiUP9tobhj">
       Solution
     </a>
     <span> | </span>
@@ -36,7 +37,6 @@
 
 ### Built With
 
-- [Vitejs](https://vitejs.dev/)
 - [Vue.js](https://vuejs.org/)
 - [Tailwind](https://tailwindcss.com/)
 
